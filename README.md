@@ -9,6 +9,11 @@
 ### Federated Learning (+ Kubernetes)
 - **FedOps Paper works**  
 (https://github.com/kumass2020/FedOps-Chunk-Benchmark)
+  - FL Client Simulation <- Kubernetes Job을 통한 Pod 배치 / CPU 성능 분포 시뮬레이션.
+  - FL Client Docker Image Build를 위한 Dockerfile.
+  - FL Server / Client Code (+ Dataset, DataLoader, Model, Evaluator, ...)
+  - FL 결과 시각화.
+  - Flower Framework를 Client Selection / Training & Communication Time Measurement를 위해 대폭 수정.
 
 - **FL Client**  
 (https://github.com/gachon-CCLab/fl-client)
@@ -60,7 +65,7 @@
 - Algorithms  
 (https://github.com/kumass2020/Algorithms-Problems)
 
-- Deep Learning + Computer Vision
+- Deep Learning + Computer Vision  
 (https://github.com/kumass2020/2023-1-PyTorch-Lecture)
 
 - PyTorch Playground  
