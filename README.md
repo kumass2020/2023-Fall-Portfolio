@@ -7,6 +7,8 @@
 ## Projects
 
 ### Federated Learning (+ Kubernetes)
+> Kubernetes와 컨테이너 기술을 사용해 Cloud 기반 연합학습 플랫폼을 구현.   
+> 플랫폼은 서버 클러스터의 배치부터 클라이언트 처리, 모델 처리 파이프라인, 로그 처리 파이프라인까지 end-to-end 관리 및 시각화가 가능.
 - **FedOps Paper works**  
 (https://github.com/kumass2020/FedOps-Chunk-Benchmark)
   - FL Client Simulation <- Kubernetes Job을 통한 Pod 배치 / CPU 성능 분포 시뮬레이션.
@@ -46,18 +48,19 @@
 
 - Electricity Rates Comparison Web Server    
 (https://github.com/kumass2020/KEICO-Electric-Rates-Comparison-Web-Server)
-  - 계산된 요금을 시각화.
+  - 요금제에 따른 유불리를 비교하는 웹 시각화와 서버를 구현.
   
 - Electricity Prediction    
 (https://github.com/kumass2020/Electricity-Prediction-RNN-LSTM)
+  - RNN, LSTM 모델과 전력 사용량 데이터를 활용해 다음 전력 사용량을 예측.
 
 - Energy Monitoring Web  
 (https://github.com/kumass2020/energy-monitoring-system)
 
-### Multi Modality
+### Digital Healthcare
 - Person Recognition  
 (https://github.com/kumass2020/Multi-Modality-Person-Recognition)
-  - XGBoost Model과 ECG/PPG Data를 이용해 개인 인식.
+  - ECG와 PPG 파형 데이터와 XGBoost 모델을 활용해 개인 인식.
 
 ## etc.
 
@@ -94,7 +97,7 @@
 (https://github.com/kumass2020/jsp-health-platform)
 
 ### Toy Projects
-- Melon Ticketing Bot (보안 문제로 Private)  
+- Melon Ticketing Bot (사이트 취약점 및 보안 문제로 Private)  
   - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결 가능.  
 - Interpark Ticketing Bot (Private)  
   - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결 가능.  
