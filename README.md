@@ -27,7 +27,7 @@
 
 - FL Server  
 (https://github.com/gachon-CCLab/Flower_Server)
-  - FL Aggregation, Global Model Optimization
+  - FL Aggregation, Global Model Optimization 수행.
 
 - FedOps Web (Working)  
 (https://github.com/kumass2020/FedOps-Web)  
