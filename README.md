@@ -25,9 +25,15 @@
 
 - FL Server  
 (https://github.com/gachon-CCLab/Flower_Server)
+  - FL Aggregation, Global Model Optimization
+
+- FedOps Web (Working)  
+(https://github.com/kumass2020/FedOps-Web)  
+  - 연합학습 플랫폼을 웹으로 지원.
 
 - Kubernetes Resources Collector  
 (https://github.com/kumass2020/K8s-Resource-Collector)
+  - Kubernetes 클러스터의 모든 자원 정보를 수집.
 
 ### Energy
 - In/Out Management Server  
@@ -37,9 +43,11 @@
 
 - In/Out Management Client (Android) (BLE ver.)  
 (https://github.com/gachon-CCLab/KEICO-RP-BLE-inoutManagement)
+  - BLE 통신을 사용해 사용자가 재실 상태인지 여부를 구분해주는 클라이언트.
 
 - In/Out Management Client (Android) (WiFi ver.)  
 (https://github.com/kumass2020/WiFi-InOutManagement-Android)
+  - WiFi 통신을 사용해 사용자가 재실 상태인지 여부를 구분해주는 클라이언트.
 
 - **Electricity Bill Calculator**  
 (https://github.com/gachon-CCLab/KEICO-Electricity-Bill-Calculator)
@@ -56,6 +64,7 @@
 
 - Energy Monitoring Web  
 (https://github.com/kumass2020/energy-monitoring-system)
+  - 전력 사용량 시각화.
 
 ### Digital Healthcare
 - Person Recognition  
@@ -96,11 +105,15 @@
 - JSP Programming  
 (https://github.com/kumass2020/jsp-health-platform)
 
+- Capstone Project  
+(https://github.com/dev-yun/health_partner)  
+  - 졸업 프로젝트로 진행한 온라인 헬스 PT 매칭 플랫폼.  
+
 ### Toy Projects
 - Melon Ticketing Bot (사이트 취약점 및 보안 문제로 Private)  
-  - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결 가능.  
+  - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결.  
 - Interpark Ticketing Bot (Private)  
-  - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결 가능.  
+  - Captcha 문제를 Image Processing (noise reduction)과 ML 라이브러리로 해결.  
 - Naver Smartstore Alert  
 (https://github.com/kumass2020/Naver-Smartstore-Alert/tree/main)  
 
