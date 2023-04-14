@@ -2,7 +2,9 @@
 
 ## General
 - Github Profile    
-(https://github.com/kumass2020)
+(https://github.com/kumass2020)  
+- CV  
+(https://kumass2020.github.io/2023-Fall-CV/)  
 
 ## Projects
 
