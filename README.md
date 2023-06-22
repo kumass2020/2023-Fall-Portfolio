@@ -16,7 +16,14 @@
 (http://ccljhub.gachon.ac.kr:40020/)
   - FedOps Platform을 Web에 배포.
   - FL-Client 관리, FL-Server 상태 확인, FL 학습, 결과 성능 모니터링을 손쉽게 Web에서 확인가능.
-  - React와 Node.js(Koa, SocketIO)를 통해 구현하였음.
+  - AWS S3, WandB API를 사용해 모니터링 및 시행 별 Global Model 다운로드 지원.
+  - React와 Node.js(Koa, SocketIO)를 통해 Web 전반을 구현하였음.
+ 
+- **FedOps**  
+(https://github.com/gachon-CCLab/FedOps)
+  - FedOps Open-source Project.
+  - 모든 fl-client와 server 코드가 담겨있으며 라이브러리로 쉽게 설치-사용 가능.
+  - client, server 코드 구현 전반에 관여하였음.
 
 - **FedOps Paper works**  
 (https://github.com/kumass2020/FedOps-Chunk-Benchmark)
