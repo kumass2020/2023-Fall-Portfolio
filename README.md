@@ -11,6 +11,13 @@
 ### Federated Learning (+ Kubernetes)
 > Kubernetes와 컨테이너 기술을 사용해 Cloud 기반 연합학습 플랫폼을 구현.   
 > 플랫폼은 서버 클러스터의 배치부터 클라이언트 처리, 모델 처리 파이프라인, 로그 처리 파이프라인까지 end-to-end 관리 및 시각화가 가능.
+
+- **FedOps Web**  
+(http://ccljhub.gachon.ac.kr:40020/)
+  - FedOps Platform을 Web에 배포.
+  - FL-Client 관리, FL-Server 상태 확인, FL 학습, 결과 성능 모니터링을 손쉽게 Web에서 확인가능.
+  - React와 Node.js(Koa, SocketIO)를 통해 구현하였음.
+
 - **FedOps Paper works**  
 (https://github.com/kumass2020/FedOps-Chunk-Benchmark)
   - FL Client Simulation <- Kubernetes Job을 통한 Pod 배치 / CPU 성능 분포 시뮬레이션.
